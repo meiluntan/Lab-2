@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-
 body {
   font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.6;
@@ -12,11 +11,9 @@ body {
   background-color: whitesmoke;
 }
 
-
 h2 {
   margin-bottom: 12px;
 }
-
 
 p {
   margin-bottom: 12px;
